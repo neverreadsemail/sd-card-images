@@ -67,6 +67,7 @@ debootstrap \
   --include=\
 netbase,\
 net-tools,\
+ifupdown,\
 systemd-sysv,\
 u-boot-tools,\
 initramfs-tools,\
